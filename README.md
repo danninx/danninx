@@ -1,4 +1,4 @@
-<h1 color=lightgreen> Hello World </h1>
+<h1 color=#32CD32> Hello World </h1>
 ## Aspiring developer with interests in 
 - Web & Cloud Development 🌐
 - Machine learning 🤖
