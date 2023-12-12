@@ -1,4 +1,4 @@
-<h1><span style="color:#32CD32">Hello World</span></h1>
+![animated background](animated_background.gif)
 
 ## Aspiring developer with interests in 
 - Web & Cloud Development 🌐
