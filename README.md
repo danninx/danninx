@@ -1,14 +1,13 @@
-<div id="header" align="center">
-  <img src="animated_background.gif" width="80%"/>
-</div>
+# Hello World
 
-<div align=center>
-  <h3>Aspiring developer with interests in: </h3>
-  <p>Web & Cloud Development 🌐</p>
-  <p>Machine learning 🤖</p>
-</div>
+### Aspiring developer with interests in
 
-<div style="display:flex;flex-direction:column;align-items:center" width="100%" align=center>
+Web & Cloud Development 🌐
+Machine Learning 🤖
+
+### Here's what I'm working on now:
+
+<div style="display:flex;flex-direction:column" width="100%" align=center>
   
   <h3>Here's what I'm working on now:</h3>
   <div style="display:flex;justify-content:space-evenly" width="25%">
