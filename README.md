@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="animated_background.gif" width="100"/>
+  <img src="animated_background.gif" width="100%"/>
 </div>
 
 ## Aspiring developer with interests in 
