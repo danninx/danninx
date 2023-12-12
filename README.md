@@ -1,4 +1,4 @@
-<h1 color=#32CD32> Hello World </h1>
+![Hello World](hello_world.svg)
 
 ## Aspiring developer with interests in 
 - Web & Cloud Development 🌐
