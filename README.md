@@ -2,22 +2,10 @@
 
 ### Aspiring developer with interests in
 
-Web & Cloud Development 🌐
-Machine Learning 🤖
+Web & Cloud Development :cloud:
+Machine Learning :robot:
 
 ### Here's what I'm working on now:
-
-<div style="display:flex;flex-direction:column" width="100%" align=center>
-  
-  <h3>Here's what I'm working on now:</h3>
-  <div style="display:flex;justify-content:space-evenly" width="25%">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="10%"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="10%"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" width="10%"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" width="10%"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="10%"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="10%"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" width="10%"/>
-  </div>
-  
-</div>
+![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![](https://img.shields.io/badge/Javascript-grey?style=for-the-badge&logo=javascript)
+![](https://img.shields.io/badge/Node-green?style=for-the-badge&logo=nodedotjs)
