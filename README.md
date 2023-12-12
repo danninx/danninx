@@ -6,7 +6,6 @@
   <h3>Aspiring developer with interests in: </h3>
   <p>Web & Cloud Development 🌐</p>
   <p>Machine learning 🤖</p>
-  <p>Computer Networking 🖧</p>
 </div>
 
 <div style="display:flex;flex-direction:column;align-items:center" width="100%" align=center>
