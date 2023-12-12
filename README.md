@@ -1,4 +1,15 @@
-### Hi there 👋
+# Hello
+
+## Aspiring developer with interests in 
+- Web & Cloud Development 🌐
+- Machine learning 🤖
+- Computer Networking 🖧
+
+## Here's what I'm currently doing
+- Javascript (with a focus on NodeJS)
+- Python (focused around data sciences)
+- Studying for CompTIA Networking+
+
 
 <!--
 **Danninx/Danninx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
