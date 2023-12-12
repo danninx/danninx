@@ -1,4 +1,4 @@
-![Hello World](hello_world.svg)
+<h1 color=green>Hello World</h1>
 
 ## Aspiring developer with interests in 
 - Web & Cloud Development 🌐
