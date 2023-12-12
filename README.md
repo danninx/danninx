@@ -1,4 +1,4 @@
-<h1 color=green>Hello World</h1>
+<h1 style="color:green">Hello World</h1>
 
 ## Aspiring developer with interests in 
 - Web & Cloud Development 🌐
