@@ -6,8 +6,9 @@
 - Computer Networking 🖧
 
 ## Here's what I'm currently doing
-- Javascript (with a focus on NodeJS)
-- Python (focused around data sciences)
+- Javascript ( with a focus on NodeJS )
+- Python ( focused around data sciences )
+- Rust systems programming
 - Studying for CompTIA Networking+
 
 
