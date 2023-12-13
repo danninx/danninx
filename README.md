@@ -1,4 +1,8 @@
 <img src="./animated_background.gif" width=100%></img>
+[![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Danninx)
+[![](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCl4DGfMy6ug4MKBpUj0C9wg)
+[![](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/THVTytM8rr)
+[![](https://img.shields.io/badge/email_me-grey?style=for-the-badge)](mailto:githubpublic.reaction867@silomails.com)
 
 ## Aspiring Developer & Student
 - Web & Cloud Development :cloud:
@@ -13,6 +17,8 @@
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=#E57324)
 ![](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![](https://img.shields.io/badge/Npm-CB3837?style=for-the-badge&logo=npm)
+![](https://img.shields.io/badge/Bun-black?style=for-the-badge&logo=bun)
 ![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![](https://img.shields.io/badge/Discord_js-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 ![](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
