@@ -4,14 +4,20 @@
 
 </div>
 
-[![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Danninx)
-[![](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCl4DGfMy6ug4MKBpUj0C9wg)
-[![](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/THVTytM8rr)
-[![](https://img.shields.io/badge/email_me-grey?style=for-the-badge)](mailto:githubpublic.reaction867@silomails.com)
+<section align=center>
 
-# Aspiring Devleoper
+<a href="https://github.com/Danninx"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://www.youtube.com/channel/UCl4DGfMy6ug4MKBpUj0C9wg"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+<a href="https://discord.gg/THVTytM8rr"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
+<a href="mailto:githubpublic.reaction867@silomails.com"><img src="https://img.shields.io/badge/email_me-grey?style=for-the-badge" /></a>
 
-## Here's What I'm Learning Now:
+</section>
+
+<h1 align=center> Aspiring Devleoper </h1>
+
+<h2 align=center> Here's What I'm Learning Now: </h2>
+
+<h3 align=center>
 
 ![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![](https://img.shields.io/badge/Javascript-grey?style=for-the-badge&logo=javascript)
@@ -28,3 +34,5 @@
 ![](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
 ![](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
 ![](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
+
+</h3>
