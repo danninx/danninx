@@ -1,15 +1,10 @@
-# Hello World
+# Hello
 
 ## Aspiring Developer & Student
-
-##
-
-Web & Cloud Development :cloud:
-Machine Learning :robot:
+- Web & Cloud Development :cloud:
+- Machine Learning :robot:
 
 ## Here's What I'm Learning Now:
-
-### Languages
 
 ![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![](https://img.shields.io/badge/Javascript-grey?style=for-the-badge&logo=javascript)
