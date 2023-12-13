@@ -4,9 +4,8 @@
 [![](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/THVTytM8rr)
 [![](https://img.shields.io/badge/email_me-grey?style=for-the-badge)](mailto:githubpublic.reaction867@silomails.com)
 
-## Aspiring Developer & Student
-- Web & Cloud Development :cloud:
-- Machine Learning :robot:
+# Aspiring Devleoper
+
 
 ## Here's What I'm Learning Now:
 
