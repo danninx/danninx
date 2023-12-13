@@ -1,4 +1,4 @@
-<div style="display:flex;justify-content:center">
+<div align=center>
 
 <img src="./animated_background.gif" width=70%></img>
 
