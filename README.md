@@ -1,4 +1,4 @@
-<img src="./animated_background.gif" width=70%></img>
+<img src="./animated_background.gif" width=100%></img>
 
 ## Aspiring Developer & Student
 - Web & Cloud Development :cloud:
