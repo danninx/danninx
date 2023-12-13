@@ -1,6 +1,6 @@
 <div align=center>
 
-<img src="./animated_background.gif" width=70%></img>
+<img src="./animated_background.gif" width=50%></img>
 
 </div>
 
