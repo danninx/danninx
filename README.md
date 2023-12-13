@@ -1,4 +1,4 @@
-# Hello
+![](./animated_background.gif)
 
 ## Aspiring Developer & Student
 - Web & Cloud Development :cloud:
