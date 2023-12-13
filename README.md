@@ -1,4 +1,5 @@
-<img src="./animated_background.gif" width=100%></img>
+<center><img src="./animated_background.gif" width=70%></img></center>
+
 [![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Danninx)
 [![](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCl4DGfMy6ug4MKBpUj0C9wg)
 [![](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/THVTytM8rr)
