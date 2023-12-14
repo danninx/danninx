@@ -8,7 +8,6 @@
 
 <a href="https://github.com/Danninx"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 <a href="https://www.youtube.com/channel/UCl4DGfMy6ug4MKBpUj0C9wg"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
-<a href="https://discord.gg/THVTytM8rr"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
 <a href="mailto:githubpublic.reaction867@silomails.com"><img src="https://img.shields.io/badge/email_me-grey?style=for-the-badge" /></a>
 
 </section>
